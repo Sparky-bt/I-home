@@ -42,17 +42,17 @@ I-homeAPP可以了解您的兴趣爱好，为您推荐您感兴趣的家装风�
 
 ### 产品原型
 1、推荐页
-![推荐页]()
-
+![推荐页](https://github.com/Sparky-bt/I-home/blob/master/%E5%9B%BE%E7%89%875.png)
+![推荐页](https://github.com/Sparky-bt/I-home/blob/master/图片6.png)
 
 2、路线页
-![路线页]()
-
+![路线页](https://github.com/Sparky-bt/I-home/blob/master/%E5%9B%BE%E7%89%873.png)
+![路线页](https://github.com/Sparky-bt/I-home/blob/master/%E5%9B%BE%E7%89%874.png)
 
 3、AR页
-![AR页]()
+![AR页](https://github.com/Sparky-bt/I-home/blob/master/%E5%9B%BE%E7%89%871.png)
 
-
+![AR页](https://github.com/Sparky-bt/I-home/blob/master/%E5%9B%BE%E7%89%872.png)
 
 ### API使用错误反馈
 - 当路径规划没有出现用户的目标时，语音提示：“主人对不起，小爱又计算错误了，小爱已经把错误原因记下了”
