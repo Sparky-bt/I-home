@@ -41,26 +41,26 @@ I-homeAPP可以了解您的兴趣爱好，为您推荐您感兴趣的家装风�
 ### （六）产品原型
 1、推荐页
 
-![推荐页](https://github.com/Sparky-bt/I-home/blob/master/%E5%9B%BE%E7%89%875.png)
+![推荐页](https://github.com/Sparky-bt/I-home/blob/master/images/%E5%9B%BE%E7%89%875.png)
 
-![推荐页](https://github.com/Sparky-bt/I-home/blob/master/图片6.png)
+![推荐页](https://github.com/Sparky-bt/I-home/blob/master/images/%E5%9B%BE%E7%89%876.png)
 
 2、路线页
 
-![路线页](https://github.com/Sparky-bt/I-home/blob/master/%E5%9B%BE%E7%89%873.png)
+![路线页](https://github.com/Sparky-bt/I-home/blob/master/images/%E5%9B%BE%E7%89%873.png)
 
-![路线页](https://github.com/Sparky-bt/I-home/blob/master/%E5%9B%BE%E7%89%874.png)
+![路线页](https://github.com/Sparky-bt/I-home/blob/master/images/%E5%9B%BE%E7%89%874.png)
 
 3、AR页
 
-![AR页](https://github.com/Sparky-bt/I-home/blob/master/%E5%9B%BE%E7%89%871.png)
+![AR页](https://github.com/Sparky-bt/I-home/blob/master/images/%E5%9B%BE%E7%89%871.png)
 
-![AR页](https://github.com/Sparky-bt/I-home/blob/master/%E5%9B%BE%E7%89%872.png)
+![AR页](https://github.com/Sparky-bt/I-home/blob/master/images/%E5%9B%BE%E7%89%872.png)
 
 
 ### （七）产品流程图
 
-![流程图](https://github.com/Sparky-bt/I-home/blob/master/%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
+![流程图](https://github.com/Sparky-bt/I-home/blob/master/images/%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 
 ### （八）口头操作说明
 新用户注册APP时需要几分钟填写个人的兴趣爱好，喜欢的颜色等个性化问题，填完之后系统经过计算可以为用户推荐喜欢的家装风格。而用户在输入想要购买的家具时，系统会使用位置信息，规划直接到达目的的路线，省时省力，并且看到喜欢的家具还可以用AR功能看是否适合自己家。
@@ -71,9 +71,23 @@ I-homeAPP可以了解您的兴趣爱好，为您推荐您感兴趣的家装风�
 
 价值主张：路径规划API是一套以HTTP形式提供的步行、公交、驾车查询及行驶距离计算接口，返回JSON 或 XML格式的查询数据，用于实现路径规划功能的开发。
 
+代码示例：
+
+![路径api](https://github.com/Sparky-bt/I-home/blob/master/images/%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92api01.png)
+
+![路径api](https://github.com/Sparky-bt/I-home/blob/master/images/%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92api02.png)
+
+![路径api](https://github.com/Sparky-bt/I-home/blob/master/images/%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92api03.png)
+
 2、百度AR
 
 适用场景：AR技术的主要应用场景包括营销广告、教育培训、娱乐互动、商品展示、特效拍摄、美妆美颜、游戏互动、导航导览等。
+
+代码示例：
+
+![百度AR](https://github.com/Sparky-bt/I-home/blob/master/images/AR01.png)
+
+![百度AR](https://github.com/Sparky-bt/I-home/blob/master/images/AR02.png)
 
 
 ### （九）API使用错误反馈
