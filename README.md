@@ -72,9 +72,15 @@ I-homeAPP可以了解您的兴趣爱好，为您推荐您感兴趣的家装风�
 
 1、高德API——路径规划
 
-价值主张：路径规划API是一套以HTTP形式提供的步行、公交、驾车查询及行驶距离计算接口，返回JSON 或 XML格式的查询数据，用于实现路径规划功能的开发。
+- **价值主张**：路径规划API是一套以HTTP形式提供的步行、公交、驾车查询及行驶距离计算接口，返回JSON 或 XML格式的查询数据，用于实现路径规划功能的开发。
 
-代码示例：
+- **接口地址**：[高德API路径规划文档](https://lbs.amap.com/api/webservice/guide/api/direction)
+
+- **请求方式**：GET
+
+- **请求URL**：	https://restapi.amap.com/v3/direction/walking?parameters
+
+- **代码示例**：
 
 ![路径api](https://github.com/Sparky-bt/I-home/blob/master/images/%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92api01.png)
 
@@ -84,13 +90,24 @@ I-homeAPP可以了解您的兴趣爱好，为您推荐您感兴趣的家装风�
 
 2、百度AR
 
-适用场景：AR技术的主要应用场景包括营销广告、教育培训、娱乐互动、商品展示、特效拍摄、美妆美颜、游戏互动、导航导览等。
+- **适用场景**：AR技术的主要应用场景包括营销广告、教育培训、娱乐互动、商品展示、特效拍摄、美妆美颜、游戏互动、导航导览等。
 
-代码示例：
+- **接口地址**：[百度AR开发文档](https://ai.baidu.com/ai-doc/AR/lk3h7lyfx)
+
+- **接入方式**：![接入方式]()
+
+- **代码示例**：
 
 ![百度AR](https://github.com/Sparky-bt/I-home/blob/master/images/AR01.png)
 
 ![百度AR](https://github.com/Sparky-bt/I-home/blob/master/images/AR02.png)
+
+
+### （十）需求列表与人工智能API加值
+| 用户需求 | API接口 | 重要程度 |
+| ------ | ------ | ------ |
+| 用户需要节约逛家具店的时间成本，更快找到目标 | 路径规划API | 重要 |
+| 用户需要使用AR技术看到家具摆放在自己家里的样子 | AR | 重要 |
 
 
 ### （十）API使用比较分析
