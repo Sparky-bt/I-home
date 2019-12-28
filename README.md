@@ -166,4 +166,4 @@ AR SDK Pro版（免费版）特点：内置轻量引擎、可选私有化部署�
 
 ### （十七）加分项
 
-- 高德api路径规划代码调用
+- 高德api路径规划代码调用[高德api路径规划代码调用](https://github.com/Sparky-bt/I-home/blob/master/%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92API%E8%B0%83%E7%94%A8.html)
