@@ -94,7 +94,7 @@ I-homeAPP可以了解您的兴趣爱好，为您推荐您感兴趣的家装风�
 
 - **接口地址**：[百度AR开发文档](https://ai.baidu.com/ai-doc/AR/lk3h7lyfx)
 
-- **接入方式**：![接入方式]()
+- **接入方式**：![接入方式](https://github.com/Sparky-bt/I-home/blob/master/images/接入方式.png)
 
 - **代码示例**：
 
